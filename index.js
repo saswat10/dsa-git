@@ -1,0 +1,3 @@
+let testCases;
+testCases = prompt();
+
